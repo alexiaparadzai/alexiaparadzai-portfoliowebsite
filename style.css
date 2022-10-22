@@ -1,0 +1,103 @@
+
+body {
+    background-color: #dfedd6;
+}
+
+.top-buffer { 
+    margin-top:50px;
+ }
+
+ .job-buffer{ 
+    color:  #97cef0;
+     margin-top: 50px;
+
+ }
+
+.bottom-buffer{ 
+    color:  #97cef0;
+     margin-top: 100px;
+
+ }
+
+.jumbotron {
+
+    background-color: #f0bc73;
+}
+
+
+.jobbutton{
+
+  background-color: #f0bc73;
+}
+
+.subscribebutton{
+    background-color: #000000;
+}
+
+h1 {
+    color: #000000;
+    font-family: 'Barlow Condensed', sans-serif;
+
+}
+
+h2 {
+    color: #000000;
+    font-family: 'Barlow Condensed', sans-serif
+
+}
+
+h3 {
+    color: #000000;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 50px;
+
+
+}
+
+h4 {
+    color: #000000;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 30px;
+
+
+
+}
+
+p {
+    color: #000000;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 25px;
+
+}
+
+.a {
+    color: #000000;
+    font-family: 'Bebas Neue', cursive;
+
+}
+
+
+.hr{
+
+    color: #a7f080;
+    height: 50px;
+}
+
+.exhibitioncard {
+
+    background-color: black;
+}
+
+.jobsection {
+    background-color: #f0bc73;
+}
+
+.fa-facebook-f {
+    font-size: 100px;
+
+}
+
+.whitetext {
+    color: white;
+}
+
